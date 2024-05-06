@@ -35,7 +35,3 @@ const routes = [
   ];
    
 module.exports = routes;
-
-const notes = [];
- 
-module.exports = notes;
